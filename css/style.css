@@ -1,0 +1,30 @@
+
+h1 {
+    color:red;
+}
+
+h2 {
+    color:purple;    
+}
+
+h3 {
+    color:brown;
+}
+
+li{
+    list-style-type: none;
+}
+
+body {
+text-align: center;
+}
+
+.nav {
+    display: inline-block;
+    margin:3% 3% 3% 0;
+    font-size: large;
+}
+
+.article-about-us {
+    text-align: left;
+}
